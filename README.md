@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**OlirahetaX/OlirahetaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Oliver!
 
-Here are some ideas to get you started:
+👋 I’m a 20-year-old student pursuing degrees in Computer Systems Engineering and Data Science & Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚽ Passions outside tech: Football, gym, hiking, and spending time with my dog.
+🌟 Mindset: I love learning new things and am always open to exciting opportunities.
+
+💻 In my tech journey:
+  - Continuously improving my skills in software development and data science.
+  - Driven to create innovative solutions that solve real-world problems.
+
+Let’s connect and build something impactful together! 🚀
