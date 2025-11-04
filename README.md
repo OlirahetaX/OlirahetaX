@@ -1,7 +1,7 @@
 # Hi, I'm Oliver!
 
 ### 💫 About Me:
-👋 I’m a 20-year-old student pursuing degrees in Software Engineering and Data Science & Artificial Intelligence.
+👋 I’m a 20-year-old student pursuing degrees in Computer Systems Engineering 
 <br>⚽ Passions outside tech: Football, gym, hiking, and spending time with my dog.
 <br>🌟 Mindset: I love learning new things and am always open to exciting opportunities.
 <br>💻 In my tech journey:
